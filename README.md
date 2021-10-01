@@ -7,4 +7,4 @@
 ## Data Cleaning
 Most of the data was already clean so except for the date column so I converted it in SQL Server.
 
-
+![DateClean](https://user-images.githubusercontent.com/87956845/135693611-5c312f39-56d1-4779-ac95-2def6721ba3f.JPG)
