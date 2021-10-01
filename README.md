@@ -13,3 +13,5 @@ Most of the data was already clean so except for the date column so I converted 
 I wrote queries in SQL Server to find out the total vaccinations and fully vaccinations numbers in each country. I then copied the data onto Excel to then be used for data visualizations in Tableau.
 
 ## Tableau Dashboard
+
+![VaxDashboard](https://user-images.githubusercontent.com/87956845/135694365-6c59d9fe-a75d-4731-8f2c-65e8af5ec2d1.JPG)
